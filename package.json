@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Puddinglord/election-server#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "axios": "^0.21.1"
